@@ -1,7 +1,7 @@
 #
 <div>
 <h2>
-    Hi, I'm Meer AKA Mutelove!
+    Hi, I'm Eissa Web Developer
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
@@ -61,7 +61,7 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="htt
 </div>
 
 ## Discord
-<a href="https://discord.com/users/721746046543331449"  align="left">
+<a href="https://discord.com/users/1332398330512408719"  align="left">
     <img src="https://lanyard.cnrad.dev/api/218779355461976064?theme=dark">
   </a>
 
