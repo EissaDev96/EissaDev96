@@ -1,29 +1,76 @@
-<div align="center">
-  <img src="https://your-image-link.png" width="150px" alt="Profile Picture" style="border-radius: 50%;" />
+<h1 align="center">🖤 YourUsername</h1>
 
-  <h1>Welcome to My Discord Universe</h1>
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+</p>
 
-  <p><strong>Rank:</strong> <span style="color: #FFD700;">S</span></p>
+<p align="center">
+  <img src="https://your-pfp-link.com/pfp.png" width="120px" style="border-radius: 50%;" alt="Profile" />
+</p>
 
-  <img src="https://lanyard.cnrad.dev/api/your_discord_id" alt="Discord Presence" />
+---
 
-  <p>
-    <img src="https://img.shields.io/badge/Nitro-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/HypeSquad%20Bravery-ED4245?style=for-the-badge&logo=discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/Active%20Developer-57F287?style=for-the-badge&logo=discord&logoColor=white" />
-  </p>
+### 🎮 Discord Info
 
-  <hr />
+> 👤 **Username:** YourDiscordUsername#0000  
+> 🆔 **ID:** `123456789012345678`  
+> 🏅 **Badges:**
 
-  <h2>Ranks & Skills</h2>
-  <ul>
-    <li>🗡️ Combat: <strong>S</strong></li>
-    <li>🧠 Strategy: <strong>A</strong></li>
-    <li>🎨 Design: <strong>S</strong></li>
-    <li>💻 Programming: <strong>A</strong></li>
-  </ul>
+<p align="left">
+  <img src="https://lanyard.cnrad.dev/api/123456789012345678" />
+</p>
 
-  <h2>Gallery</h2>
-  <img src="https://your-image1-link.png" width="200px" />
-  <img src="https://your-image2-link.png" width="200px" />
-</div>
+---
+
+### 🔰 Ranks
+
+| Category      | Rank |
+|---------------|------|
+| Gaming Skill  | 🟣 S |
+| Creativity    | 🟣 S |
+| Coding        | 🔵 A |
+| Design        | 🟡 B |
+| RP Skills     | 🟣 S |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Finished 30+ Projects.
+- 🛡️ Leader of RP Server.
+- ✨ Shadow Army Controller.
+- 🔮 Inspired by Solo Leveling.
+
+---
+
+### 💎 Gallery
+
+<p align="center">
+  <img src="https://your-image-link1.com" width="200px" />
+  <img src="https://your-image-link2.com" width="200px" />
+</p>
+
+---
+
+### 🧠 About Me
+
+> Passionate about anime, coding, design, and building unique Discord experiences.  
+> I love dark aesthetic and rank systems.
+
+---
+
+### 🧩 Connect With Me
+
+- 💬 Discord: `YourUsername#0000`
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=AA00FF&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile;S+Rank+Only+Zone;Let's+Create+Legends" />
+</p>
